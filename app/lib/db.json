@@ -1,0 +1,93 @@
+{
+  "notifications": [
+    {
+      "from": {
+        "name": "Mark Webber",
+        "avatar": "/images/avatar-mark-webber.webp"
+      },
+      "type": "reaction",
+      "item": {
+        "type": "post",
+        "body": "My first tournament today!",
+        "recent": true
+      },
+      "read": false,
+      "time": "1m ago"
+    },
+    {
+      "from": {
+        "name": "Angela Gray",
+        "avatar": "/images/avatar-angela-gray.webp"
+      },
+      "type": "follow",
+      "read": false,
+      "time": "5m ago"
+    },
+    {
+      "from": {
+        "name": "Jacob Thompson",
+        "avatar": "/images/avatar-jacob-thompson.webp"
+      },
+      "type": "join",
+      "item": {
+        "type": "group",
+        "body": "Chess Club"
+      },
+      "read": false,
+      "time": "1 day ago"
+    },
+    {
+      "from": {
+        "name": "Rizky Hasanuddin",
+        "avatar": "/images/avatar-rizky-hasanuddin.webp"
+      },
+      "type": "message",
+      "item": {
+        "type": "message",
+        "body": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game."
+      },
+      "read": true,
+      "time": "5 days ago"
+    },
+    {
+      "from": {
+        "name": "Kimberly Smith",
+        "avatar": "/images/avatar-kimberly-smith.webp"
+      },
+      "type": "comment",
+      "item": {
+        "type": "picture",
+        "body": "/images/image-chess.webp"
+      },
+      "read": true,
+      "time": "1 week ago"
+    },
+    {
+      "from": {
+        "name": "Nathan Peterson",
+        "avatar": "/images/avatar-nathan-peterson.webp"
+      },
+      "type": "reaction",
+      "item": {
+        "type": "post",
+        "recent": true,
+        "body": "5 end-game strategies to increase your win rate"
+      },
+      "read": true,
+      "time": "2 weeks ago"
+    },
+    {
+      "from": {
+        "name": "Anna Kim",
+        "avatar": "/images/avatar-anna-kim.webp"
+      },
+      "type": "left",
+      "item": {
+        "type": "group",
+        "body": "Chess Club"
+      },
+      "read": true,
+      "time": "2 weeks ago"
+    }
+  ]
+}
