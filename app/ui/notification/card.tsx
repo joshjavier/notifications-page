@@ -12,7 +12,7 @@ export default function Card({ notification }: { notification: Notification }) {
   return (
     <div
       className={clsx(
-        'flex items-start p-4 sm:px-[19px] rounded-[10px] gap-[13px] sm:gap-[19px]',
+        'card flex items-start p-4 sm:px-[19px] rounded-[10px] gap-[13px] sm:gap-[19px]',
         {
           'bg-very-light-grayish-blue': !notification.read,
         },

@@ -18,7 +18,7 @@ export default function RootLayout({
       <body
         className={`${plusJakartaSans.className} bg-very-light-grayish-blue text-very-dark-blue min-h-screen sm:grid sm:place-items-center`}
       >
-        <main className="mx-auto max-w-[730px] sm:p-4">{children}</main>
+        <main className="mx-auto max-w-[730px] w-full sm:p-4">{children}</main>
         <footer hidden>
           <p>
             Challenge by{' '}

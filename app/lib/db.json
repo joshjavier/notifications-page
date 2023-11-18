@@ -1,6 +1,7 @@
 {
   "notifications": [
     {
+      "id": 1,
       "from": {
         "name": "Mark Webber",
         "avatar": "/images/avatar-mark-webber.webp"
@@ -15,6 +16,7 @@
       "time": "1m ago"
     },
     {
+      "id": 2,
       "from": {
         "name": "Angela Gray",
         "avatar": "/images/avatar-angela-gray.webp"
@@ -24,6 +26,7 @@
       "time": "5m ago"
     },
     {
+      "id": 3,
       "from": {
         "name": "Jacob Thompson",
         "avatar": "/images/avatar-jacob-thompson.webp"
@@ -37,6 +40,7 @@
       "time": "1 day ago"
     },
     {
+      "id": 4,
       "from": {
         "name": "Rizky Hasanuddin",
         "avatar": "/images/avatar-rizky-hasanuddin.webp"
@@ -50,6 +54,7 @@
       "time": "5 days ago"
     },
     {
+      "id": 5,
       "from": {
         "name": "Kimberly Smith",
         "avatar": "/images/avatar-kimberly-smith.webp"
@@ -63,6 +68,7 @@
       "time": "1 week ago"
     },
     {
+      "id": 6,
       "from": {
         "name": "Nathan Peterson",
         "avatar": "/images/avatar-nathan-peterson.webp"
@@ -77,6 +83,7 @@
       "time": "2 weeks ago"
     },
     {
+      "id": 7,
       "from": {
         "name": "Anna Kim",
         "avatar": "/images/avatar-anna-kim.webp"
